@@ -1,4 +1,3 @@
-# This is just an example !!!
 
 
 # Solana SPL Token Swap Script
